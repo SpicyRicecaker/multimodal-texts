@@ -27,11 +27,10 @@
 
 <main class={darkTheme ? 'light' : 'dark'}>
   <button on:click={() => (darkTheme = !darkTheme)}>dark/light</button>
-  <div>
+  <div class="body">
     {@html markdown}
   </div>
 </main>
-
 
 <!-- <svelte:head>
   <link
@@ -56,11 +55,15 @@
     position: absolute;
     right: 0;
   }
-  div {
+  .body {
     max-width: 240px;
     margin: 1rem;
     align-self: center;
     justify-self: center;
+    
+    & :global(a) {
+      transition: 1s;
+    }
   }
 
   .light {
@@ -68,6 +71,11 @@
     color: #654735;
     & :global(a) {
       color: #45707a;
+    }
+
+    & > button {
+      background-color: #292828;
+      color: #d4be98;
     }
   }
 
@@ -77,6 +85,17 @@
     & :global(a) {
       color: #7daea3;
     }
+
+    & > button {
+      color: #292828;
+      background-color: #d4be98;
+    }
+  }
+  button {
+    transition: 1s;
+    border-radius: 0;
+    outline: none;
+    border: none;
   }
 
   // h1 {
@@ -86,12 +105,12 @@
   //   font-weight: 100;
   // }
   @media (min-width: 640px) {
-    div {
+    .body {
       max-width: none;
     }
   }
   @media (min-width: 992px) {
-    div {
+    .body {
       width: 50%;
     }
   }
