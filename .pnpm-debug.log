@@ -1,0 +1,17 @@
+{
+  "0 debug pnpm:scope": {
+    "selected": 1
+  },
+  "1 error pnpm": {
+    "code": "ERR_PNPM_UNEXPECTED_VIRTUAL_STORE",
+    "expected": "C:\\Users\\spicy\\AppData\\Local\\Temp\\fnm_multishells\\16952_1617991332600\\pnpm-global\\5\\node_modules\\.pnpm",
+    "actual": "C:\\Users\\spicy\\AppData\\Local\\Temp\\fnm_multishells\\3764_1618381660658\\pnpm-global\\5\\node_modules\\.pnpm",
+    "modulesDir": "C:\\Users\\spicy\\.fnm\\node-versions\\v15.13.0\\installation\\pnpm-global\\5\\node_modules",
+    "err": {
+      "name": "Error",
+      "message": "Unexpected virtual store location",
+      "code": "ERR_PNPM_UNEXPECTED_VIRTUAL_STORE",
+      "stack": "Error: Unexpected virtual store location\n    at checkCompatibility (C:\\Users\\spicy\\.fnm\\node-versions\\v15.13.0\\installation\\pnpm-global\\5\\node_modules\\.pnpm\\pnpm@6.0.1\\node_modules\\pnpm\\dist\\pnpm.cjs:86124:13)\n    at C:\\Users\\spicy\\.fnm\\node-versions\\v15.13.0\\installation\\pnpm-global\\5\\node_modules\\.pnpm\\pnpm@6.0.1\\node_modules\\pnpm\\dist\\pnpm.cjs:86661:42\n    at Array.map (<anonymous>)\n    at validateModules (C:\\Users\\spicy\\.fnm\\node-versions\\v15.13.0\\installation\\pnpm-global\\5\\node_modules\\.pnpm\\pnpm@6.0.1\\node_modules\\pnpm\\dist\\pnpm.cjs:86659:32)\n    at getContext (C:\\Users\\spicy\\.fnm\\node-versions\\v15.13.0\\installation\\pnpm-global\\5\\node_modules\\.pnpm\\pnpm@6.0.1\\node_modules\\pnpm\\dist\\pnpm.cjs:86557:30)\n    at async mutateModules (C:\\Users\\spicy\\.fnm\\node-versions\\v15.13.0\\installation\\pnpm-global\\5\\node_modules\\.pnpm\\pnpm@6.0.1\\node_modules\\pnpm\\dist\\pnpm.cjs:111327:17)\n    at async handler (C:\\Users\\spicy\\.fnm\\node-versions\\v15.13.0\\installation\\pnpm-global\\5\\node_modules\\.pnpm\\pnpm@6.0.1\\node_modules\\pnpm\\dist\\pnpm.cjs:114221:33)\n    at async Timeout._onTimeout (C:\\Users\\spicy\\.fnm\\node-versions\\v15.13.0\\installation\\pnpm-global\\5\\node_modules\\.pnpm\\pnpm@6.0.1\\node_modules\\pnpm\\dist\\pnpm.cjs:123432:22)"
+    }
+  }
+}
