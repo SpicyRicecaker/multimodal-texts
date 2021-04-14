@@ -7,7 +7,7 @@ Multimodal texts encorporate things like music and videos. Below are some defini
 - Curved lines dance arond, organic shapes speak of nature and passion
 - Angled lines represent power, similarly, geometric shapes represent structure or rigidity
 
-![shapes](images/shapes.jpeg)
+![shapes](/images/shapes.jpeg)
 
 ### Light & Colors
 
@@ -15,20 +15,20 @@ Multimodal texts encorporate things like music and videos. Below are some defini
 - Red symbolizes blood, and speaks to anger and passion
 - Blue symbolizes the sea, and evokes sadness, calmness, etc.
 
-![color](images/color.jpeg)
+![color](/images/color.jpeg)
 
 ### Texture
 
 - A smooth, apple iPhone oozes a premium feel, a rough leather jacket shows how tough it is
 
-![texture](images/texture.jpeg)
+![texture](/images/texture.jpeg)
 
 ### Space & Contrast
 
 - A small character placed in a large landscape promotes helplessness
 - Sharp lines speak of barriers
 
-![space](images/space.jpeg)
+![space](/images/space.jpeg)
 
 ### Perspective & gaze
 
@@ -46,7 +46,7 @@ Multimodal texts encorporate things like music and videos. Below are some defini
 
 One sound effect has three different tones that all rise in pitch. The highest pitched tone gradually fades away, the lowest pitched tone comes into focus, and the one in the middle stays constant. This gives the illusion of an infinetely rising pitch. It's even used in the infinite staircase in Mario!
 
-![rise](images/rise.jpeg)
+![rise](/images/rise.jpeg)
 
 ### [Lord Of The Rings: How Music Elevates Story](https://www.youtube.com/watch?v=e7BkmF8CJpQ)
 
