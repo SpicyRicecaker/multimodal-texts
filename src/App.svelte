@@ -60,7 +60,7 @@
     margin: 1rem;
     align-self: center;
     justify-self: center;
-    
+
     & :global(a) {
       transition: 1s;
     }
