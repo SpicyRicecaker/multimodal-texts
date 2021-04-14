@@ -6,6 +6,7 @@ Multimodal texts encorporate things like music and videos. Below are some defini
 
 - Curved lines dance arond, organic shapes speak of nature and passion
 - Angled lines represent power, similarly, geometric shapes represent structure or rigidity
+
 ![shapes](images/shapes.jpeg)
 
 ### Light & Colors
@@ -13,17 +14,20 @@ Multimodal texts encorporate things like music and videos. Below are some defini
 - Hue is the choice of the specific color from a prism splitting light, while saturation is the amount of that specific color
 - Red symbolizes blood, and speaks to anger and passion
 - Blue symbolizes the sea, and evokes sadness, calmness, etc.
+
 ![color](images/color.jpeg)
 
 ### Texture
 
 - A smooth, apple iPhone oozes a premium feel, a rough leather jacket shows how tough it is
+
 ![texture](images/texture.jpeg)
 
 ### Space & Contrast
 
 - A small character placed in a large landscape promotes helplessness
 - Sharp lines speak of barriers
+
 ![space](images/space.jpeg)
 
 ### Perspective & gaze
@@ -41,6 +45,7 @@ Multimodal texts encorporate things like music and videos. Below are some defini
 ### [The Sound Illusion that Makes Dunkirk so Intense](https://www.youtube.com/watch?v=LVWTQcZbLgY)
 
 One sound effect has three different tones that all rise in pitch. The highest pitched tone gradually fades away, the lowest pitched tone comes into focus, and the one in the middle stays constant. This gives the illusion of an infinetely rising pitch. It's even used in the infinite staircase in Mario!
+
 ![rise](images/rise.jpeg)
 
 ### [Lord Of The Rings: How Music Elevates Story](https://www.youtube.com/watch?v=e7BkmF8CJpQ)
@@ -56,7 +61,7 @@ In lord of the rings, the fellowship theme is used to demonstrate the spirit or 
 - dolly - camera follows the subject at a constant distance
   - gives and emphasizes a perspective
 - dolly zoom - moves closer to the subject while keeping subject the same; optical illusion that changes amount of background captured
-  - https://www.youtube.com/watch?v=u5JBlwlnJX0
+  - [The Dolly Zoom: More Than A Cheap Trick](https://www.youtube.com/watch?v=u5JBlwlnJX0)
   - The sheer impossibility of it can represent paranoia, give visual cues, and establish relationships
 - zoom - gives a sense of size and perspective. Tunnel vision could represent a narrow view
 - pedestal - physically moving camera up

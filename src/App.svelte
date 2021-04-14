@@ -25,7 +25,7 @@
   });
 </script>
 
-<main class={darkTheme ? 'light' : 'dark'}>
+<main class={darkTheme ? 'dark' : 'light'}>
   <button on:click={() => (darkTheme = !darkTheme)}>dark/light</button>
   <div class="body">
     {@html markdown}
@@ -50,6 +50,11 @@
     position: relative;
     transition: 1s;
     display: grid;
+    & :global(img) {
+      width: 75%;
+      display: block;
+      margin: auto;
+    }
   }
   button {
     position: absolute;
