@@ -32,6 +32,7 @@
   </div>
 </main>
 
+
 <!-- <svelte:head>
   <link
     rel="stylesheet"
@@ -41,22 +42,27 @@
   />
 </svelte:head> -->
 <style lang="scss">
-  :global(body, html) {
+  :global(body) {
     margin: 0;
     padding: 0;
-    width: 100%;
-    height: 100%;
+    display: grid;
   }
   main {
-    width: 100%;
-    height: 100%;
     position: relative;
     transition: 1s;
+    display: grid;
   }
   button {
     position: absolute;
     right: 0;
   }
+  div {
+    max-width: 240px;
+    margin: 1rem;
+    align-self: center;
+    justify-self: center;
+  }
+
   .light {
     background-color: #fbf1c7;
     color: #654735;
@@ -71,13 +77,6 @@
     & :global(a) {
       color: #7daea3;
     }
-  }
-  div {
-    width: 100%;
-    height: 100%;
-    padding: 1em;
-    max-width: 240px;
-    margin: 0 auto;
   }
 
   // h1 {
