@@ -32,8 +32,8 @@ Multimodal texts encorporate things like music and videos. Below are some defini
 
 ### Perspective & gaze
 
-- Gaze body language and character thoughts
-- Perspective affects the empathy of the viewer: when placed higher up, the viewer feels powerful. Lower down, viewers look up to characters and feel powerless. At a level angle, we stand on middle ground with them
+- Gaze communicates body language and character thoughts
+- Perspective affects the empathy of the viewer: when placed higher up, the viewer feels powerful. Lower down, viewers look up to characters and feel powerless. At a level angle, viewers stand on middle ground with them and understand their perspective better
 
 # Multimodal Texts
 
@@ -50,27 +50,27 @@ One sound effect has three different tones that all rise in pitch. The highest p
 
 ### [Lord Of The Rings: How Music Elevates Story](https://www.youtube.com/watch?v=e7BkmF8CJpQ)
 
-In lord of the rings, the fellowship theme is used to demonstrate the spirit or purpose of its members. For example, it's overpowered by a villanous theme if they're in trouble, sputters out when characters are uncertain, and rises up when there is hope.
+In Lord of the Rings, the Fellowship theme is used to demonstrate the spirit or purpose of its members. For example, it's overpowered by a villanous theme if they're in trouble, sputters out when characters are uncertain, and rises up when there is hope.
 
 ## Camera movement overhaul
 
-- pan - horizontal movement left and right
+- pan: horizontal movement left and right
   - shows distance between two objects
-- tilt - vertical movement up and down
+- tilt: vertical movement up and down
   - show height between two objects
-- dolly - camera follows the subject at a constant distance
+- dolly: camera follows the subject at a constant distance
   - gives and emphasizes a perspective
-- dolly zoom - moves closer to the subject while keeping subject the same; optical illusion that changes amount of background captured
+- dolly zoom: moves closer to the subject while keeping subject the same; optical illusion that changes amount of background captured
   - [The Dolly Zoom: More Than A Cheap Trick](https://www.youtube.com/watch?v=u5JBlwlnJX0)
   - The sheer impossibility of it can represent paranoia, give visual cues, and establish relationships
-- zoom - gives a sense of size and perspective. Tunnel vision could represent a narrow view
-- pedestal - physically moving camera up
-- hand held - urgent, live scenes often used by news crews
-- crane shot - gives a bird's eye view
-- follow - follows subject, and gives a sense of the pacing of the story
-- aerial shot - is like the crane shot by done by a drone
+- zoom: gives a sense of size and perspective. Tunnel vision could represent a narrow view
+- pedestal: physically moving camera up
+- hand held: urgent, live scenes often used by news crews
+- crane shot: gives a bird's eye view
+- follow: follows subject, and gives a sense of the pacing of the story
+- aerial shot: is like the crane shot by done by a drone
   - can give the viewer a good idea of the setting of the scnee
-- rack focus - focusing out one person while simultaneously focusing in another
+- rack focus: focusing out one person while simultaneously focusing in another
   - effectively changes the focus of the viewer
 
 ## Mise-en-scene
